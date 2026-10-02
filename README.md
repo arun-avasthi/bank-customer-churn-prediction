@@ -4,7 +4,7 @@ Machine learning application for predicting bank customer churn using Gradient B
 
 ## 🚀 Live Demo
 
-[Open Bank Customer Churn Prediction App](https://bank-customer-churn-prediction-wbhy.onrender.com)
+[Open Bank Customer Churn Prediction App](https://bank-customer-churn-prediction-1-5af7.onrender.com)
 
 ## 🛠️ Technologies
 
